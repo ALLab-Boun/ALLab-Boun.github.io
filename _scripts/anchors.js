@@ -8,6 +8,7 @@
     const headings = document.querySelectorAll(
       "h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]"
     );
+    /* 
     for (const heading of headings) {
       // create anchor link
       const link = document.createElement("a");
@@ -21,7 +22,7 @@
         heading.parentElement.id = heading.id;
         heading.removeAttribute("id");
       }
-    }
+    }*/
   };
 
   // scroll to target of url hash
