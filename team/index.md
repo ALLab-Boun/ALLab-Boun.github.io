@@ -5,31 +5,42 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+{% include section.html %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# {% include icon.html icon="fa-solid fa-microscope" %} Principal Investigator
+
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 1.5rem; align-items: center;">
+  <div>
+    {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+  </div>
+  <div>
+    <p>
+    More detailed text; background and research focus of the Principal Investigator.
+    </p>
+  </div>
+</div>
+
+
+
+
+
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+# {% include icon.html icon="fa-solid fa-users" %}Team
+
+
+
+{% include list.html data="members" component="portrait" filter="role == 'phd-candidate'and status=='active'"%}
+{% include list.html data="members" component="portrait" filter="role == 'msc-student' and status=='active'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-{% capture content %}
+# {% include icon.html icon="fa-solid fa-graduation-cap" %} Alumni 
+{% include list.html data="members" component="portrait" filter="role == 'phd-candidate'and status=='alumni'"%}
+{% include list.html data="members" component="portrait" filter="role == 'msc-student' and status=='alumni'" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
 
-{% include grid.html style="square" content=content %}
