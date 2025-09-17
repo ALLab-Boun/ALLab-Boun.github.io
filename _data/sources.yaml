@@ -1,23 +1,219 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: arXiv:2508.20597
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  title: Local Virtual Nodes for Alleviating Over-Squashing in Graph Neural Networks
+  authors:
+  - Tuğrul Hasan Karabulut
+  - İnci M. Baytaş
+  publisher: arXiv Preprint
+  date: '2025-08-28'
+  link: https://arxiv.org/abs/2508.20597
+- id: doi:10.1109/ACCESS.2025.3579092
+  type: paper
+  title: Cross Attentive Multi-Cue Fusion for Skeleton-Based Sign Language Recognition
+  authors:
+  - Ogulcan Ozdemir
+  - Inci M. Baytas
+  - Lale Akarun
+  publisher: IEEE Access
+  date: '2025-06-12'
+  link: https://ieeexplore.ieee.org/abstract/document/11032083
+- id: doi:10.1007/s10044-025-01447-4
+  type: paper
+  title: Conversion-aware forecasting of Alzheimer’s disease via featurewise attention
+  authors:
+  - Elvan Karasu
+  - Inci M. Baytas
+  publisher: Springer London
+  date: '2025-03-20'
+  link: https://link.springer.com/article/10.1007/s10044-025-01447-4
+- id: doi:10.1109/ICKG63256.2024.00037
+  type: paper
+  title: Out-of-Distribution Detection with Prototype Similarity
+  authors:
+  - Ozan Özgür
+  - Inci M. Baytas
+  publisher: IEEE
+  date: '2024-12-11'
+  link: https://ieeexplore.ieee.org/abstract/document/10884282
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  
+- id: doi:10.1109/FG59268.2024.10581950
+  type: paper
+  title: Hand Graph Topology Selection for Skeleton-Based Sign Language Recognition
+  authors:
+  - "O\u011Fulcan \xD6zdemir"
+  - "\u0130nci M. Bayta\u015F"
+  - Lale Akarun
+  publisher: 2024 IEEE 18th International Conference on Automatic Face and Gesture
+    Recognition (FG)
+  date: '2024-05-27'
+  link: https://doi.org/g93xwc
+- id: doi:10.1109/jbhi.2024.3373703
+  type: paper
+  title: Predicting Progression From Mild Cognitive Impairment to Alzheimer's Dementia
+    With Adversarial Attacks
+  authors:
+  - "\u0130nci M. Bayta\u015F"
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2024-06-01'
+  link: https://doi.org/g93xwd
+- id: doi:10.55730/1300-0632.4078
+  type: paper
+  title: Signer-independent sign language recognition with feature disentanglement
+  authors:
+  - "\u0130NC\u0130 MEL\u0130HA BAYTA\u015E"
+  - "\u0130pek ERDO\u011EAN"
+  publisher: Turkish Journal of Electrical Engineering and Computer Sciences
+  date: '2024-05-20'
+  link: https://doi.org/g93xwf
+- id: doi:10.3389/FDGTH.2023.1186713
+  type: paper
+  title: 'Editorial: Pattern recognition for healthcare analytics'
+  authors:
+  - "\u0130nci M. Bayta\u015F"
+  - Yifan Peng
+  - "Arzucan \xD6zg\xFCr"
+  publisher: Frontiers in Digital Health
+  date: '2023-03-30'
+  link: https://doi.org/g7bxfr
+- id: doi:10.3389/FNINS.2023.1148191
+  type: paper
+  title: Multi-cue temporal modeling for skeleton-based sign language recognition
+  authors:
+  - "O\u011Fulcan \xD6zdemir"
+  - "\u0130nci M. Bayta\u015F"
+  - Lale Akarun
+  publisher: Frontiers in Neuroscience
+  date: '2023-04-05'
+  link: https://doi.org/g93xwg
+- id: doi:10.1016/J.NEUCOM.2022.10.034
+  type: paper
+  title: 'Robustness-via-synthesis: Robust training with generative adversarial perturbations'
+  authors:
+  - "\u0130nci M. Bayta\u015F"
+  - Debayan Deb
+  publisher: Neurocomputing
+  date: '2023-01-01'
+  link: https://doi.org/g93xwh
+- id: doi:10.1109/SIU49456.2020.9302247
+  type: paper
+  title: Adversarial Training with Orthogonal Regularization
+  authors:
+  - "O\u011Fuz Kaan Y\xFCksel"
+  - "\u0130nci Meliha Bayta\u015F"
+  publisher: 2020 28th Signal Processing and Communications Applications Conference
+    (SIU)
+  date: '2020-10-05'
+  link: https://doi.org/g93xwj
+- id: doi:10.1038/s41598-018-19979-7
+  type: paper
+  title: An MCEM Framework for Drug Safety Signal Detection and Combination from Heterogeneous
+    Real World Evidence
+  authors:
+  - Cao Xiao
+  - Ying Li
+  - Inci M. Baytas
+  - Jiayu Zhou
+  - Fei Wang
+  publisher: Scientific Reports
+  date: '2018-01-29'
+  link: https://doi.org/gcxgwj
+- id: doi:10.1109/icdm.2018.00104
+  title: Heterogeneous Hyper-Network Embedding
+  authors:
+  - Inci M. Baytas
+  - Cao Xiao
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: 2018 IEEE International Conference on Data Mining (ICDM)
+  date: '2018-11-01'
+  link: https://doi.org/gndw78
+- id: doi:10.1145/3219819.3219966
+  type: paper
+  title: Subspace Network
+  authors:
+  - Mengying Sun
+  - Inci M. Baytas
+  - Liang Zhan
+  - Zhangyang Wang
+  - Jiayu Zhou
+  publisher: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge
+    Discovery &amp; Data Mining
+  date: '2018-07-19'
+  link: https://doi.org/g93xwk
+- id: doi:10.1145/3097983.3097997
+  type: paper
+  title: Patient Subtyping via Time-Aware LSTM Networks
+  authors:
+  - Inci M. Baytas
+  - Cao Xiao
+  - Xi Zhang
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge
+    Discovery and Data Mining
+  date: '2017-08-04'
+  link: https://doi.org/gfx5fh
+- id: doi:10.1109/icdm.2016.0012
+  type: paper
+  title: Asynchronous Multi-task Learning
+  authors:
+  - Inci M. Baytas
+  - Ming Yan
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: 2016 IEEE 16th International Conference on Data Mining (ICDM)
+  date: '2016-12-01'
+  link: https://doi.org/gfv3gh
+- id: doi:10.1186/s13637-016-0045-x
+  type: paper
+  title: Stochastic convex sparse principal component analysis
+  authors:
+  - Inci M. Baytas
+  - Kaixiang Lin
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: EURASIP Journal on Bioinformatics and Systems Biology
+  date: '2016-09-09'
+  link: https://doi.org/g93xwp
+- id: doi:10.1109/tmm.2016.2614225
+  type: paper
+  title: 'PhenoTree: Interactive Visual Analytics for Hierarchical Phenotyping From
+    Large-Scale Electronic Health Records'
+  authors:
+  - Inci M. Baytas
+  - Kaixiang Lin
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: IEEE Transactions on Multimedia
+  date: '2016-11-01'
+  link: https://doi.org/f9bddj
+- id: doi:10.1145/2939672.2939834
+  type: paper
+  title: Multi-Task Feature Interaction Learning
+  authors:
+  - Kaixiang Lin
+  - Jianpeng Xu
+  - Inci M. Baytas
+  - Shuiwang Ji
+  - Jiayu Zhou
+  publisher: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge
+    Discovery and Data Mining
+  date: '2016-08-13'
+  link: https://doi.org/g6cw4z
+- id: doi:10.1109/siu.2014.6830231
+  title: Head motion classification with 2D motion estimation
+  authors:
+  - Inci M. Baytas
+  - Bilge Gunsel
+  publisher: 2014 22nd Signal Processing and Communications Applications Conference
+    (SIU)
+  date: '2014-04-01'
+  link: https://doi.org/g93xwq
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+
