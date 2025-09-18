@@ -201,6 +201,10 @@ source:
   text: Source
   tooltip: Source code
 
+github-repo:
+  icon: fa-brands fa-github
+  text: Official Repository
+
 server:
   icon: fa-solid fa-server
   text: Server

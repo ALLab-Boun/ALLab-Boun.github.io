@@ -7,6 +7,91 @@
   publisher: arXiv Preprint
   date: '2025-08-28'
   link: https://arxiv.org/abs/2508.20597
+  buttons:
+  - type: github-repo
+    link: https://github.com/ALLab-Boun/LVN
+- id: doi:10.1109/ICDM59182.2024.00084
+  type: paper
+  title: Channel-Attentive Graph Neural Networks
+  authors:
+  - Tuğrul Hasan Karabulut
+  - İnci M. Baytaş
+  publisher: 2024 IEEE International Conference on Data Mining (ICDM)
+  date: '2024-12-09'
+  link: https://ieeexplore.ieee.org/abstract/document/10884168
+  buttons:
+  - type: github-repo
+    link: https://github.com/ALLab-Boun/CHAT-GNN
+- id: doi:10.1109/ICIP51287.2024.10647877
+  type: paper
+  title: Adversarial Robustness for Deep Metric Learning
+  authors:
+  - Ezgi Paket
+  - İnci M. Baytaş
+  publisher: 2024 IEEE International Conference on Image Processing (ICIP)
+  date: '2024-10-27'
+  link: https://ieeexplore.ieee.org/abstract/document/10647877
+- id: doi:10.1109/ACCESS.2024.3460406
+  type: paper
+  title: 'EdgeConvEns: Convolutional Ensemble Learning for Edge Intelligence'
+  authors:
+  - İlkay Sikdokur
+  - İnci M. Baytaş
+  - Arda Yurdakul
+  publisher: IEEE Access
+  date: '2024-09-13'
+  link: https://ieeexplore.ieee.org/abstract/document/10680038
+- id: doi:10.54287/gujsa.1458880
+  type: paper
+  title: Perturbation Augmentation for Adversarial Training with Diverse Attacks
+  authors:
+  - Duygu Serbes
+  - İnci M. Baytaş
+  publisher: 'Gazi University Journal of Science Part A: Engineering and Innovation'
+  date: '2024-06-29' 
+  link: https://dergipark.org.tr/en/pub/gujsa/issue/84766/1458880
+- id: arXiv:2203.11081
+  type: paper
+  title: Image Classification on Accelerated Neural Networks
+  authors:
+  - İlkay Sikdokur
+  - İnci M. Baytaş
+  - Arda Yurdakul
+  publisher: arXiv Preprint
+  date: '2022-03-21'
+  link: https://arxiv.org/abs/2203.11081
+- id: arXiv:2111.08794
+  type: paper
+  title: Investigating conversion from mild cognitive impairment to alzheimer's disease using latent space manipulation
+  authors:
+  - Deniz Sezin Ayvaz
+  - İnci M. Baytaş
+  publisher: The International Symposium on Health Informatics and Bioinformatics
+  date: '2022-10'
+  link: https://open.metu.edu.tr/handle/11511/101308 
+- id: doi:10.1145/3097983.3098152
+  type: paper
+  title: Privacy-Preserving Distributed Multi-Task Learning with Asynchronous Updates
+  authors:
+  - Liyang Xie
+  - İnci M. Baytaş
+  - Kaixiang Lin
+  - Jiayu Zhou
+  publisher: "KDD '17: Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+  date: '2017-08-13'
+  link: https://dl.acm.org/doi/abs/10.1145/3097983.3098152
+- id: arXiv:1512.01728
+  type: paper
+  title: Similarity Learning via Adaptive Regression and Its Application to Image Retrieval
+  authors:
+  - Qi Qian
+  - İnci M. Baytaş
+  - Rong Jin
+  - Anil Jain
+  - Shenghuo Zhu
+  publisher: arXiv Preprint
+  date: '2015-12-06'
+  link: https://arxiv.org/abs/1512.01728
 - id: doi:10.1109/ACCESS.2025.3579092
   type: paper
   title: Cross Attentive Multi-Cue Fusion for Skeleton-Based Sign Language Recognition
@@ -95,6 +180,9 @@
   publisher: Neurocomputing
   date: '2023-01-01'
   link: https://doi.org/g93xwh
+  buttons:
+  - type: github-repo
+    link: https://github.com/ALLab-Boun/robustness-via-synthesis
 - id: doi:10.1109/SIU49456.2020.9302247
   type: paper
   title: Adversarial Training with Orthogonal Regularization
@@ -131,7 +219,7 @@
   link: https://doi.org/gndw78
 - id: doi:10.1145/3219819.3219966
   type: paper
-  title: Subspace Network
+  title: 'Subspace Network: Deep Multi-Task Censored Regression for Modeling Neurodegenerative Diseases'
   authors:
   - Mengying Sun
   - Inci M. Baytas
