@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  #tooltip: About our team
 ---
 
 {% include section.html %}
