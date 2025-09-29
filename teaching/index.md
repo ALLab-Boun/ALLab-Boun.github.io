@@ -8,9 +8,10 @@ nav:
 # {% include icon.html icon="fa-solid fa-book" %}Teaching
 
 
-{% include section.html %}
-
-## Special Topics in Deep Learning (CMPE597)
+<h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
+  <span>Special Topics in Deep Learning (CMPE597)</span>
+  <span>Since 2020</span>
+</h2>
 
 **Description:** An introduction to artificial neural networks, deep learning, fundamental deep architectures,
 and their applications.
@@ -29,7 +30,10 @@ to gain an understanding of the following:
 
 {% include section.html %}
 
-## Pattern Recognition (CMPE544)
+<h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
+  <span>Pattern Recognition (CMPE544)</span>
+  <span>Since 2020</span>
+</h2>
 
 **Description:** This course will introduce the fundamentals of statistical
 pattern recognition with examples from several application areas. Topics include
@@ -47,7 +51,10 @@ completion of this course, students will have gained the necessary understanding
 - neural networks and an introduction to deep learning
 
 {% include section.html %}
-## Machine Learning (CMPE462)
+<h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
+  <span>Machine Learning (CMPE462)</span>
+  <span>Since 2020</span>
+</h2>
 
 **Description:** An introduction to machine learning, including perceptron, linear regression, logistic regression, naive Bayes, decision trees, support vector machines,
 unsupervised learning, and neural networks. This class covers both the theory and the
@@ -62,7 +69,10 @@ summarized below:
 
 {% include section.html %}
 
-## Introduction to Probability and Statistics for Computer Engineers (CMPE343)
+<h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
+  <span>Intro. to Probability and Statistics for Comp. Engineers (CMPE343)</span>
+  <span>Since 2020</span>
+</h2>
 
 **Description:** Foundations of probability and statistics. Topics include elements of probability, random variables, expectation, variance, continuous and discrete distributions (e.g., Bernoulli, binomial, uniform, Gaussian, exponential, Poisson, gamma), sampling, sample statistics, point, and interval estimation, hypothesis testing, regression, and computational aspects of random variable generation, sampling and estimation.
 
