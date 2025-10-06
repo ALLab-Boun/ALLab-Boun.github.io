@@ -1,9 +1,8 @@
 ---
 ---
 
-# ALLab-Boun's Website
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
@@ -15,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true

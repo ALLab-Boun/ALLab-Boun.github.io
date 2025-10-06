@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: ALLab-Boun
+title: Artificial Learning Lab @ Bogazici University
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,11 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@ALLab-Boun.com
-  google-scholar: ETJoidYAAAAJ
-  github: ALLab-Boun
-  twitter: ALLab-Boun
-  youtube: ALLab-Boun
+  #email: contact@ALLab-Boun.com
+  #google-scholar: ETJoidYAAAAJ
+  #github: ALLab-Boun
+  #twitter: ALLab-Boun
+  #youtube: ALLab-Boun
 
 ### jekyll settings
 
