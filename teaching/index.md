@@ -88,6 +88,5 @@ course, students will have gained the necessary understanding on:
 - concept of regression
 - practical implementation of some of the probability and statistics concep
 
-{% include section.html %}
 
 
