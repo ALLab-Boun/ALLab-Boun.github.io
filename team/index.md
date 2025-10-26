@@ -23,7 +23,15 @@ nav:
       <a href="https://jiayuzhou.github.io/" target="_blank" rel="noopener noreferrer">Jiayu Zhou</a>. 
       My research interests include machine learning, deep learning, adversarial machine learning, robust training, and temporal analysis, and their applications in biomedical informatics.
 
-    </p>
+  </p>
+
+<p>
+  <a href="/files/resume.pdf" target="_blank" rel="noopener noreferrer"
+     style="display: inline-block; padding: 0.5rem 1rem; background-color: #004080; color: white; border-radius: 4px; text-decoration: none;">
+    📄 View My Resume
+  </a>
+</p>
+    
   </div>
 </div>
 
