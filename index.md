@@ -3,7 +3,13 @@
 
 Artificial Learning Lab (ALLab) in the Department of Computer Engineering at Boğaziçi University is a research group with a focus on developing machine learning and deep learning algorithms for a wide range of applications. 
 
-<a href="https://github.com/ALLab-Boun" target="_blank">Visit our GitHub Repository</a>
+{%
+  include button.html
+  link="https://github.com/ALLab-Boun"
+  text="View us on GitHub"
+  icon="fa-brands fa-github"
+  style="primary"
+%}
 
 {% include section.html %}
 
