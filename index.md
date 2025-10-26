@@ -10,6 +10,7 @@ Artificial Learning Lab (ALLab) in the Department of Computer Engineering at BoÄ
   icon="fa-brands fa-github"
   style="primary"
   target="_blank"
+  rel="noopener noreferrer"
 %}
 
 {% include section.html %}
