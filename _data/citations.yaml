@@ -185,6 +185,18 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3389/FDGTH.2023.1186713
+  title: 'Editorial: Pattern recognition for healthcare analytics'
+  authors:
+  - "\u0130nci M. Bayta\u015F"
+  - Yifan Peng
+  - "Arzucan \xD6zg\xFCr"
+  publisher: Frontiers in Digital Health
+  date: '2023-03-30'
+  link: https://doi.org/g7bxfr
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/FNINS.2023.1148191
   title: Multi-cue temporal modeling for skeleton-based sign language recognition
   authors:
@@ -338,5 +350,16 @@
   date: '2016-08-13'
   link: https://doi.org/g6cw4z
   type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/siu.2014.6830231
+  title: Head motion classification with 2D motion estimation
+  authors:
+  - Inci M. Baytas
+  - Bilge Gunsel
+  publisher: 2014 22nd Signal Processing and Communications Applications Conference
+    (SIU)
+  date: '2014-04-01'
+  link: https://doi.org/g93xwq
   plugin: sources.py
   file: sources.yaml
