@@ -10,7 +10,7 @@ nav:
 
 <h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
   <span>Special Topics in Deep Learning (CMPE597)</span>
-  <span>Since 2020</span>
+  <span>Since 2021 Spring</span>
 </h2>
 
 **Description:** An introduction to artificial neural networks, deep learning, fundamental deep architectures,
@@ -32,7 +32,7 @@ to gain an understanding of the following:
 
 <h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
   <span>Pattern Recognition (CMPE544)</span>
-  <span>Since 2020</span>
+  <span>Since 2020 Fall</span>
 </h2>
 
 **Description:** This course will introduce the fundamentals of statistical
@@ -53,7 +53,7 @@ completion of this course, students will have gained the necessary understanding
 {% include section.html %}
 <h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
   <span>Machine Learning (CMPE462)</span>
-  <span>Since 2020</span>
+  <span>Since 2020 Spring</span>
 </h2>
 
 **Description:** An introduction to machine learning, including perceptron, linear regression, logistic regression, naive Bayes, decision trees, support vector machines,
@@ -71,7 +71,7 @@ summarized below:
 
 <h2 style="display:flex; justify-content:space-between; align-items:baseline; margin:0;">
   <span>Intro. to Probability and Statistics for Comp. Engineers (CMPE343)</span>
-  <span>Since 2020</span>
+  <span>Since 2019 Fall</span>
 </h2>
 
 **Description:** Foundations of probability and statistics. Topics include elements of probability, random variables, expectation, variance, continuous and discrete distributions (e.g., Bernoulli, binomial, uniform, Gaussian, exponential, Poisson, gamma), sampling, sample statistics, point, and interval estimation, hypothesis testing, regression, and computational aspects of random variable generation, sampling and estimation.
