@@ -1,8 +1,7 @@
 ---
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Artificial Learning Lab (ALLab) in the Department of Computer Engineering at Boğaziçi University is a research group with a focus on developing machine learning and deep learning algorithms for a wide range of applications.
 
 {% include section.html %}
 
@@ -10,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ALLab is dedicated to developing novel learning algorithms ranging from graph neural networks to robust training that empower intelligent applications in diverse fields.
 
 {%
   include button.html
@@ -32,8 +31,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
+At ALLab, we advance the frontiers of machine learning and deep learning by tackling real-world challenges across domains with a special focus on biomedical informatics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ 
 
 {%
   include button.html
@@ -58,7 +58,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
