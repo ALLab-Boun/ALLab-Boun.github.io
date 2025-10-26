@@ -1,7 +1,7 @@
 ---
 title: Teaching
 nav:
-  order: 3
+  order: 4
   #tooltip: Courses
 ---
 
