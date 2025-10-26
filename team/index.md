@@ -16,11 +16,11 @@ nav:
   <div>
     <p>
     I am an assistant professor in the 
-      <a href="https://cmpe.bogazici.edu.tr/">Department of Computer Engineering at Boğaziçi University</a>.
+      <a href="https://cmpe.bogazici.edu.tr/" target="_blank" rel="noopener noreferrer">Department of Computer Engineering at Boğaziçi University</a>.
       I received my Ph.D. degree from the Department of Computer Science & Engineering at Michigan State University. 
-      I was a research assistant in the Pattern Recognition and Image Processing Lab under the supervision of 
-      <a href="https://www.cse.msu.edu/~jain/">Anil Jain</a> and 
-      <a href="https://jiayuzhou.github.io/">Jiayu Zhou</a>. 
+      I was a research assistant in the <a href="http://biometrics.cse.msu.edu/" target="_blank" rel="noopener noreferrer">Pattern Recognition and Image Processing Lab</a> under the supervision of 
+      <a href="https://www.cse.msu.edu/~jain/" target="_blank" rel="noopener noreferrer">Anil Jain</a> and 
+      <a href="https://jiayuzhou.github.io/" target="_blank" rel="noopener noreferrer">Jiayu Zhou</a>. 
       My research interests include machine learning, deep learning, adversarial machine learning, robust training, and temporal analysis, and their applications in biomedical informatics.
 
     </p>
