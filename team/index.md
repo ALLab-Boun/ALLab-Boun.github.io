@@ -25,14 +25,11 @@ nav:
 
   </p>
 
-<p>
+<div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
   <a href="/files/resume.pdf" target="_blank" rel="noopener noreferrer"
      style="display: inline-block; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #c2558d; color: white; border-radius: 4px; text-decoration: none;">
     📄 View My Resume
   </a>
-</p>
-
-<div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
       <a href="https://scholar.google.com/citations?user=ELxSraIAAAAJ&hl=en" 
          target="_blank" rel="noopener noreferrer"
          style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none;">
