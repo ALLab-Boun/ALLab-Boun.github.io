@@ -27,30 +27,28 @@ nav:
 
 <p>
   <a href="/files/resume.pdf" target="_blank" rel="noopener noreferrer"
-     style="display: inline-block; padding: 0.5rem 1rem; background-color: #c2558d; color: white; border-radius: 4px; text-decoration: none;">
+     style="display: inline-block; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #c2558d; color: white; border-radius: 4px; text-decoration: none;">
     📄 View My Resume
   </a>
 </p>
 
-<p>
-  <a href="https://scholar.google.com/citations?user=ELxSraIAAAAJ&hl=en" 
-     target="_blank" rel="noopener noreferrer"
-     style="display: inline-block; padding: 0.5rem 1rem; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" 
-         alt="Google Scholar" width="18" style="vertical-align: middle; margin-right: 6px;">
-    Google Scholar
-  </a>
-</p>
+<div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
+      <a href="https://scholar.google.com/citations?user=ELxSraIAAAAJ&hl=en" 
+         target="_blank" rel="noopener noreferrer"
+         style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" 
+             alt="Google Scholar" width="18" style="vertical-align: middle; margin-right: 6px;">
+        Google Scholar
+      </a>
 
-<p>
   <a href="https://www.linkedin.com/in/inci-m-baytas-00994a22/"
-     target="_blank" rel="noopener noreferrer"
-     style="display: inline-block; padding: 0.5rem 1rem; background-color: #0A66C2; color: white; border-radius: 4px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-         alt="LinkedIn" width="18" style="vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(1);">
-    LinkedIn
-  </a>
-</p>
+         target="_blank" rel="noopener noreferrer"
+         style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #0A66C2; color: white; border-radius: 4px; text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+             alt="LinkedIn" width="18" style="vertical-align: middle; margin-right: 6px; filter: brightness(0) invert(1);">
+        LinkedIn
+      </a>
+  </div>
     
   </div>
 </div>
