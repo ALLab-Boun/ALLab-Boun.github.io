@@ -24,7 +24,7 @@ ALLab is dedicated to developing novel learning algorithms ranging from graph ne
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/advprog.png"
   link="research"
   title="Our Research"
   text=text
