@@ -57,7 +57,7 @@ At ALLab, we advance the frontiers of machine learning and deep learning by tack
 
 {%
   include feature.html
-  image="images/chat-gnn.pdf"
+  image="images/chat-gnn.png"
   link="projects"
   title="Our Projects"
   flip=true
