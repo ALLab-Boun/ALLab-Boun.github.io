@@ -30,6 +30,13 @@ nav:
      style="display: inline-block; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #c2558d; color: white; border-radius: 4px; text-decoration: none;">
     📄 View My Resume
   </a>
+  </a>
+      {% endif %}
+      {% if member.links.email %}
+      <a href="mailto:{{ member.links.email }}" 
+         style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #EA4335; color: white; border-radius: 4px; text-decoration: none;">
+        📧 Email
+      </a>
       <a href="https://scholar.google.com/citations?user=ELxSraIAAAAJ&hl=en" 
          target="_blank" rel="noopener noreferrer"
          style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none;">
