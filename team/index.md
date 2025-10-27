@@ -33,7 +33,7 @@ nav:
   </a>
       {% endif %}
       {% if member.links.email %}
-      <a href="mailto:{{ member.links.email }}" 
+      <a href="mailto:inci.baytas@bogazici.edu.tr" 
          style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #EA4335; color: white; border-radius: 4px; text-decoration: none;">
         📧 Email
       </a>
