@@ -63,9 +63,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-## Ph.D. Students 
+## Graduate Students 
 
-{% assign phd_members = site.members | where: "role", "phd-candidate" | where: "status", "active" %}
+{% assign phd_members = site.members | where: "role", "phd-student" | where: "status", "active" %}
 {% for member in phd_members %}
 <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 1.5rem; align-items: center; margin-bottom: 3rem;">
   <div>
@@ -112,7 +112,6 @@ nav:
 </div>
 {% endfor %}
 
-## MSc Students
 
 {% assign msc_members = site.members | where: "role", "msc-student" | where: "status", "active" %}
 {% for member in msc_members %}
