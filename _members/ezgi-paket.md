@@ -2,6 +2,7 @@
 name: Ezgi Paket
 image: 
 role: msc-student
-description: Graduated with Master's Degree, 2024 
+description: Graduated with Master's Degree
+year: 2024
 status: alumni
 ---
