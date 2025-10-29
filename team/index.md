@@ -63,7 +63,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-## PhD Candidates
+## Ph.D. Students 
 
 {% assign phd_members = site.members | where: "role", "phd-candidate" | where: "status", "active" %}
 {% for member in phd_members %}
