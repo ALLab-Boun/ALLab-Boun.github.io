@@ -1,8 +1,8 @@
 ---
-name: Tuğrul Hasan Karabulut
+name: Duygu Serbes
 image: 
 role: msc-student
 description: Graduated with Master's Degree
-year: 2025
+year: 2023
 status: alumni
 ---

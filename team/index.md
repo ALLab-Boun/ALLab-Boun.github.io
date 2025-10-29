@@ -30,6 +30,10 @@ nav:
      style="display: inline-block; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #c2558d; color: white; border-radius: 4px; text-decoration: none;">
     📄 View My Resume
   </a>
+      <a href="mailto:inci.baytas@bogazici.edu.tr" 
+         style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #EA4335; color: white; border-radius: 4px; text-decoration: none;">
+        📧 Email
+      </a>
       <a href="https://scholar.google.com/citations?user=ELxSraIAAAAJ&hl=en" 
          target="_blank" rel="noopener noreferrer"
          style="display: inline-flex; align-items: center; padding: 0.25rem 0.6rem; font-size: 0.9rem; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none;">
@@ -59,9 +63,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-## PhD Candidates
+## Graduate Students 
 
-{% assign phd_members = site.members | where: "role", "phd-candidate" | where: "status", "active" %}
+{% assign phd_members = site.members | where: "role", "phd-student" | where: "status", "active" %}
 {% for member in phd_members %}
 <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 1.5rem; align-items: center; margin-bottom: 3rem;">
   <div>
@@ -108,7 +112,6 @@ nav:
 </div>
 {% endfor %}
 
-## MSc Students
 
 {% assign msc_members = site.members | where: "role", "msc-student" | where: "status", "active" %}
 {% for member in msc_members %}
@@ -210,8 +213,9 @@ nav:
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %} Alumni 
-{% include list.html data="members" component="portrait" filter="role == 'phd-candidate' and status=='alumni'" %}
-{% include list.html data="members" component="portrait" filter="role == 'msc-student' and status=='alumni'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd-student' and status == 'alumni'" sort="year" order="descending" %}
+{% include list.html data="members" component="portrait" filter="role == 'msc-student' and status == 'alumni'" sort="year" order="descending" %}
+
 
 
 

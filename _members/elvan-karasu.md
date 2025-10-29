@@ -1,5 +1,5 @@
 ---
-name: Tuğrul Hasan Karabulut
+name: Elvan Karasu
 image: 
 role: msc-student
 description: Graduated with Master's Degree
