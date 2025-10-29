@@ -1,0 +1,7 @@
+---
+name: Duygu Serbes
+image: 
+role: msc-student
+description: Graduated with Master's Degree, 2023
+status: alumni
+---
