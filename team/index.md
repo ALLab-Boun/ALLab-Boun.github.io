@@ -213,8 +213,9 @@ nav:
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %} Alumni 
-{% include list.html data="members" component="portrait" filter="role == 'phd-candidate' and status=='alumni'" %}
-{% include list.html data="members" component="portrait" filter="role == 'msc-student' and status=='alumni'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd-student' and status == 'alumni'" sort="year" order="descending" %}
+{% include list.html data="members" component="portrait" filter="role == 'msc-student' and status == 'alumni'" sort="year" order="descending" %}
+
 
 
 
