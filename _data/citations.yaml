@@ -86,6 +86,35 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3097983.3098152
+  title: Privacy-Preserving Distributed Multi-Task Learning with Asynchronous Updates
+  authors:
+  - Liyang Xie
+  - "\u0130nci M. Bayta\u015F"
+  - Kaixiang Lin
+  - Jiayu Zhou
+  publisher: 'KDD ''17: Proceedings of the 23rd ACM SIGKDD International Conference
+    on Knowledge Discovery and Data Mining'
+  date: '2017-08-13'
+  link: https://dl.acm.org/doi/abs/10.1145/3097983.3098152
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:1512.01728
+  title: Similarity Learning via Adaptive Regression and Its Application to Image
+    Retrieval
+  authors:
+  - Qi Qian
+  - "\u0130nci M. Bayta\u015F"
+  - Rong Jin
+  - Anil Jain
+  - Shenghuo Zhu
+  publisher: arXiv Preprint
+  date: '2015-12-06'
+  link: https://arxiv.org/abs/1512.01728
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ACCESS.2025.3579092
   title: Cross Attentive Multi-Cue Fusion for Skeleton-Based Sign Language Recognition
   authors:
@@ -204,5 +233,133 @@
   date: '2020-10-05'
   link: https://doi.org/g93xwj
   type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-018-19979-7
+  title: An MCEM Framework for Drug Safety Signal Detection and Combination from Heterogeneous
+    Real World Evidence
+  authors:
+  - Cao Xiao
+  - Ying Li
+  - Inci M. Baytas
+  - Jiayu Zhou
+  - Fei Wang
+  publisher: Scientific Reports
+  date: '2018-01-29'
+  link: https://doi.org/gcxgwj
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/icdm.2018.00104
+  title: Heterogeneous Hyper-Network Embedding
+  authors:
+  - Inci M. Baytas
+  - Cao Xiao
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: 2018 IEEE International Conference on Data Mining (ICDM)
+  date: '2018-11-01'
+  link: https://doi.org/gndw78
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3219819.3219966
+  title: 'Subspace Network: Deep Multi-Task Censored Regression for Modeling Neurodegenerative
+    Diseases'
+  authors:
+  - Mengying Sun
+  - Inci M. Baytas
+  - Liang Zhan
+  - Zhangyang Wang
+  - Jiayu Zhou
+  publisher: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge
+    Discovery &amp; Data Mining
+  date: '2018-07-19'
+  link: https://doi.org/g93xwk
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3097983.3097997
+  title: Patient Subtyping via Time-Aware LSTM Networks
+  authors:
+  - Inci M. Baytas
+  - Cao Xiao
+  - Xi Zhang
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge
+    Discovery and Data Mining
+  date: '2017-08-04'
+  link: https://doi.org/gfx5fh
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/icdm.2016.0012
+  title: Asynchronous Multi-task Learning
+  authors:
+  - Inci M. Baytas
+  - Ming Yan
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: 2016 IEEE 16th International Conference on Data Mining (ICDM)
+  date: '2016-12-01'
+  link: https://doi.org/gfv3gh
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13637-016-0045-x
+  title: Stochastic convex sparse principal component analysis
+  authors:
+  - Inci M. Baytas
+  - Kaixiang Lin
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: EURASIP Journal on Bioinformatics and Systems Biology
+  date: '2016-09-09'
+  link: https://doi.org/g93xwp
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tmm.2016.2614225
+  title: 'PhenoTree: Interactive Visual Analytics for Hierarchical Phenotyping From
+    Large-Scale Electronic Health Records'
+  authors:
+  - Inci M. Baytas
+  - Kaixiang Lin
+  - Fei Wang
+  - Anil K. Jain
+  - Jiayu Zhou
+  publisher: IEEE Transactions on Multimedia
+  date: '2016-11-01'
+  link: https://doi.org/f9bddj
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2939672.2939834
+  title: Multi-Task Feature Interaction Learning
+  authors:
+  - Kaixiang Lin
+  - Jianpeng Xu
+  - Inci M. Baytas
+  - Shuiwang Ji
+  - Jiayu Zhou
+  publisher: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge
+    Discovery and Data Mining
+  date: '2016-08-13'
+  link: https://doi.org/g6cw4z
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/siu.2014.6830231
+  title: Head motion classification with 2D motion estimation
+  authors:
+  - Inci M. Baytas
+  - Bilge Gunsel
+  publisher: 2014 22nd Signal Processing and Communications Applications Conference
+    (SIU)
+  date: '2014-04-01'
+  link: https://doi.org/g93xwq
   plugin: sources.py
   file: sources.yaml
