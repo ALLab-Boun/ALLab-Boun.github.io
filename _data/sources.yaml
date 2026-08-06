@@ -1,4 +1,4 @@
-- id: https://doi.org/10.3390/jcm15062250
+- id: doi:10.3390/jcm15062250
   type: paper
   title: Real-World Multimodal Machine Learning for Risk Enrichment Across the Alzheimer’s Disease Spectrum
   authors:
@@ -17,7 +17,7 @@
   publisher: MDPI
   date: '2026-03-16'
   link: https://www.mdpi.com/2077-0383/15/6/2250
-- id: https://doi.org/10.1093/bioinformatics/btag146
+- id: doi:10.1093/bioinformatics/btag146
   type: paper
   title: STAR-GO: improving protein function prediction by learning to hierarchically integrate ontology-informed semantic embeddings
   authors:
