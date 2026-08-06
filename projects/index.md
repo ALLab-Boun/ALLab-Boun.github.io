@@ -14,20 +14,21 @@ nav:
 {% capture text %}
 Alzheimer's disease (AD) is a neurodegenerative disorder that is one of the primary causes of dementia. Our research focuses on developing methods to improve the understanding of AD prognosis and to support clinical research. 
 
+We proposed a latent-space manipulation-based approach to generate synthetic conversion visits. Using a variational autoencoder's latent space, the changes in the biomarkers of an MCI patient who converts to AD were studied. 
+
+<a href="https://arxiv.org/abs/2111.08794" target="_blank" rel="noopener noreferrer">For more click here</a>
 
 In ADVPROG, an adversarial progression framework, we aimed to reduce the complexity of the MCI-to-AD prediction by employing adversarial attacks on a shallow multilayer perceptron. The magnitude of the attack was used to infer the patient's proximity to conversion. The ADVPROG framework was used for both conversion prediction and subtyping.
 
-<a href="https://ieeexplore.ieee.org/abstract/document/10476682" target="_blank" rel="noopener noreferrer">For more click here.</a>
-
-We proposed a latent-space manipulation-based approach to generate synthetic conversion visits. Using a variational autoencoder's latent space, the changes in the biomarkers of an MCI patient who converts to AD were studied. 
+<a href="https://ieeexplore.ieee.org/abstract/document/10476682" target="_blank" rel="noopener noreferrer">For more click here</a>
 
 FATE-Net was developed as an attention-based architecture for predicting conversion from Mild Cognitive Impairment (MCI) to AD. The proposed architecture treats visit time as a separate modality to capture the correlation between time and feature significance.
 
+<a href="https://link.springer.com/article/10.1007/s10044-025-01447-4" target="_blank" rel="noopener noreferrer">For more click here</a>
+
 A local dataset was collected in collaboration with the Department of Neurology at the University of Health Sciences Sultan Abdulhamid Han Research and Training Hospital in İstanbul, Türkiye. We analyzed the MRI regional volumes of 1547 visits of 474 MCI and AD patients. This research was supported by the Scientific and Technological Research Council of Türkiye (TÜBİTAK) under grant number 121E594.
 
-
-
-
+<a href="https://www.mdpi.com/2077-0383/15/6/2250" target="_blank" rel="noopener noreferrer">For more click here</a>
 
 {%
   include button.html
