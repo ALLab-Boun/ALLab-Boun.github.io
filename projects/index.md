@@ -51,11 +51,16 @@ A local dataset was collected in collaboration with the Department of Neurology 
 ## Graph Neural Networks
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Graph neural networks (GNNs) set the state of the art for a wide variety of applications, including social networks and complex molecules. Most commonly used GNN architectures leverage the message-passing paradigm. On the other hand, the message-passing mechanism suffers from several issues. 
+
+We proposed CHAT-GNN, a channel-attentive GNN architecture, to mitigate over-smoothing that emerges as GNN's depth increases. In CHAT-GNN, by computing the messages via learning how to attend neighboring nodes and their feature channels, we aimed to increase the diversity of the information transferred between nodes. 
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10884168" target="_blank" rel="noopener noreferrer">For more click here</a>
+
+Local virtual nodes (LVN) were developed to address the over-squashing challenge caused by bottlenecks during message passing, which disrupts the modeling of long-range dependencies. The LVN framework aims to improve the connectivity in the regions with likely bottlenecks by adding trainable virtual node embeddings shared across selected central regions. 
+
+<a href="https://arxiv.org/abs/2508.20597" target="_blank" rel="noopener noreferrer">For more click here</a>
 
 {%
   include button.html
@@ -74,14 +79,26 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Adversarial Training
+## Adversarial Robustness
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Robustness-via-synthesis: Robust training with generative adversarial perturbations
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231222013091" target="_blank" rel="noopener noreferrer">For more click here</a>
+
+Perturbation Augmentation for Adversarial Training with Diverse Attacks
+<a href="https://dergipark.org.tr/en/pub/gujsa/article/1458880" target="_blank" rel="noopener noreferrer">For more click here</a>
+
+
+Adversarial Robustness for Deep Metric Learning
+<a href="https://ieeexplore.ieee.org/abstract/document/10647877" target="_blank" rel="noopener noreferrer">For more click here</a>
+
+Out-of-Distribution Detection with Prototype Similarity
+<a href="https://ieeexplore.ieee.org/abstract/document/10884282" target="_blank" rel="noopener noreferrer">For more click here</a>
+
+
+
 
 {%
   include button.html
