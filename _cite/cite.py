@@ -12,7 +12,6 @@ from util import *
 # load environment variables
 load_dotenv()
 
-
 # save errors/warnings for reporting at end
 errors = []
 warnings = []
