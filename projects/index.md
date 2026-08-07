@@ -18,9 +18,37 @@ We proposed a latent-space manipulation-based approach to generate synthetic con
 
 <a href="https://arxiv.org/abs/2111.08794" target="_blank" rel="noopener noreferrer">For more click here</a>
 
+{%
+  include button.html
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/advprog.png"
+  text=text
+%}
+
 In ADVPROG, an adversarial progression framework, we aimed to reduce the complexity of the MCI-to-AD prediction by employing adversarial attacks on a shallow multilayer perceptron. The magnitude of the attack was used to infer the patient's proximity to conversion. The ADVPROG framework was used for both conversion prediction and subtyping.
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10476682" target="_blank" rel="noopener noreferrer">For more click here</a>
+
+{%
+  include button.html
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/advprog.png"
+  text=text
+%}
 
 FATE-Net was developed as an attention-based architecture for predicting conversion from Mild Cognitive Impairment (MCI) to AD. The proposed architecture treats visit time as a separate modality to capture the correlation between time and feature significance.
 
@@ -40,7 +68,7 @@ A local dataset was collected in collaboration with the Department of Neurology 
 
 {%
   include feature.html
-  image="images/advprog.png"
+  image="images/chat-gnn.png"
   text=text
 %}
 
@@ -58,6 +86,21 @@ We proposed CHAT-GNN, a channel-attentive GNN architecture, to mitigate over-smo
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10884168" target="_blank" rel="noopener noreferrer">For more click here</a>
 
+{%
+  include button.html
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/chat-mini.png"
+  flip=true
+  text=text
+%}
+
 Local virtual nodes (LVN) were developed to address the over-squashing challenge caused by bottlenecks during message passing, which disrupts the modeling of long-range dependencies. The LVN framework aims to improve the connectivity in the regions with likely bottlenecks by adding trainable virtual node embeddings shared across selected central regions. 
 
 <a href="https://arxiv.org/abs/2508.20597" target="_blank" rel="noopener noreferrer">For more click here</a>
@@ -72,7 +115,7 @@ Local virtual nodes (LVN) were developed to address the over-squashing challenge
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lvn-mini.png"
   flip=true
   text=text
 %}
