@@ -40,7 +40,7 @@ A local dataset was collected in collaboration with the Department of Neurology 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/advprog.png"
   text=text
 %}
 
